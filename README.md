@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Nexus of Knowledge is a **Library Management System** designed using **Tkinter (Python GUI)** with **MySQL** as the database. It provides an intuitive user interface to manage books, users, and transactions efficiently. The system supports sorting, email notifications, and database connectivity.
+Nexus of Knowledge is a **Library Management System** designed using **Tkinter (Python GUI)** with **MySQL** as the database. It provides an intuitive user interface to manage books, users, and transactions efficiently. The system supports, email notifications, and database connectivity.
 
 ## Features
 
@@ -11,10 +11,7 @@ Nexus of Knowledge is a **Library Management System** designed using **Tkinter (
 
 - **MySQL Database Integration** for efficient book & user management\
   Ensures reliable storage and retrieval of book records, user details, and transactions.
-
-- **Sorting Algorithm** to structure database queries\
-  Organizes and refines data fetched from the database to enhance readability and usability.
-
+  
 - **Email Notifications** using Gmail SMTP\
   Automatically sends email confirmations and reminders for book issuances and due dates.
 
@@ -64,7 +61,7 @@ To enable email notifications via Gmail:
 2. Update your Gmail credentials in the script:
    ```python
    sender_email = "your-email@gmail.com"
-   sender_password = "your-password"
+   app_password = "your-app-password"
    ```
 ## Contributions
 
