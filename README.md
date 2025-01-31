@@ -23,7 +23,7 @@ Ensure you have the following installed:
 ## Setup & Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo/NexusOfKnowledge.git
+   git clone https://github.com/aakarroy/NexusOfKnowledge.git
    ```
 2. Update **database credentials** in the script:
    ```python
